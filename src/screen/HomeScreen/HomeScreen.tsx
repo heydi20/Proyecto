@@ -26,7 +26,7 @@ export const HomeScreen = () => {
 
   const products: Product[] = [
     { id: 1, name: 'Vestido Gala', price: 74.70, stock: 5, pathImage: 'https://taty.com.ec/wp-content/uploads/2024/08/taty_vestido_qd5196a_1-768x1024.jpg'},
-    { id: 2, name: 'Vestido Primaveral', price: 84.60, stock: 3, pathImage: 'https://taty.com.ec/wp-content/uploads/2024/08/taty_vestido_dce13854_1-768x1024.jpg' },
+    { id: 2, name: 'Vestido Prima', price: 84.60, stock: 3, pathImage: 'https://taty.com.ec/wp-content/uploads/2024/08/taty_vestido_dce13854_1-768x1024.jpg' },
     { id: 3, name: 'Vestido Noelia', price: 109.00, stock: 2, pathImage: 'https://ivannyboutique.com/30175-large_default/vestido-noelia.jpg' },
     { id: 4, name: 'Vestido Berta', price: 142.50, stock: 0, pathImage: 'https://ivannyboutique.com/30052-large_default/vestido-berta.jpg' },
     { id: 5, name: 'Falda Verde', price: 59.00, stock: 9, pathImage: 'https://ivannyboutique.com/29424-large_default/falda-alicia-verde.jpg' },
